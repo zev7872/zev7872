@@ -1,6 +1,10 @@
 ### :fire: My Stats :
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zev7872&theme=dark)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zev7872&theme=dark&background=000000)](https://git.io/streak-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@zev7872)](https://github.com/anuraghazra/github-readme-stats)
+
+<figure><embed src="https://wakatime.com/share/@zev7872/f6e3cff8-a5ce-4158-9d5e-1eabfaac0796.svg"></embed></figure>
 <!--
 **zev7872/zev7872** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
