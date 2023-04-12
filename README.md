@@ -2,7 +2,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zev7872&theme=dark)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zev7872&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zev7872&v=2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@zev7872&v=2&theme=dark&v=3)](https://github.com/zev7872/)
 
 
 <!--
